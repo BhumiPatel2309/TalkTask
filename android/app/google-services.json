@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533045523876",
+    "project_id": "talktask",
+    "storage_bucket": "talktask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533045523876:android:512716a237391894c5fd31",
+        "android_client_info": {
+          "package_name": "com.example.talktask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALqEWlPkjC1AsW6Y1ld71bofJa_8EYWjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
