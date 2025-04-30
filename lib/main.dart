@@ -12,6 +12,7 @@ void main() async {
   );
   await Hive.initFlutter();
   await Hive.openBox('taskQueue');
+  await Hive.openBox('voiceHistory'); // Box for storing voice command history
   runApp(ProviderScope(child: MyApp()));
 }
 
